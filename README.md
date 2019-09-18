@@ -7,3 +7,4 @@ With the following links you can find:
 - Code for Atari experiments in our paper: [coming soon]
 - RUDDER blog: https://www.jku.at/index.php?id=16426
 - Code for RUDDER demonstration on example-task in blog: https://github.com/ml-jku/rudder-demonstration-code
+- A practical step-by-step guide to applying RUDDER in PyTorch: https://github.com/widmi/rudder-a-practical-tutorial
